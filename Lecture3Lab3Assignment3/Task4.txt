@@ -1,0 +1,47 @@
+using System;
+using System.Collections.Generic;
+
+namespace SimpleD
+{
+    class Program
+    {
+        public static void Main()
+        {
+            Department d = new Department();
+            Console.WriteLine("1st Student is " + d[1]);
+            Console.WriteLine("2nd Student is " + d[2]);
+            Console.WriteLine("3rd Student is " + d[3]);
+
+            d[1] = "Zara";
+            d[2] = "Rahim";
+            d[3] = "Karim";
+            Console.WriteLine("After Changing the Value\n");
+            Console.WriteLine("1st Student is " + d[1]);
+            Console.WriteLine("2nd Student is " + d[2]);
+            Console.WriteLine("3rd Student is " + d[3]);
+        }
+
+    }
+
+    class Department {
+        List<Student> studentlist;
+        public Department() {
+            studentlist = new List<Student>();
+            Student s1 = new Student();
+            s1.Id = 1; s1.Name = "Rahim"; s1.Address = "Uttara";
+            studentlist.Add(s1);
+            //studentlist.Add(new Student() { Id=1, Name="Rahim", Address="Uttara" });
+            studentlist.Add(new Student() { Id = 2, Name = "Kahim", Address = "Mirpur" });
+            studentlist.Add(new Student() { Id = 3, Name = "Zara", Address = "Gulshan" });
+        }
+        public string this[int index] {
+            get { return studentlist.Find(Student => Student.Id == index).Name; }
+            set { studentlist.Find(Student => Student.Id == index).Name = value; }
+        }
+    }
+    class Student {
+        public int Id { get; set; }
+        public String Name { get; set; }
+        public String Address { get; set; }
+    }
+}
