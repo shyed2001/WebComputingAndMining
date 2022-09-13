@@ -10,7 +10,7 @@ namespace Lab4Task1b1
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Tightly Coupled!");
             List<Employee> employeeList = new List<Employee>();
             employeeList.Add(new Employee() { name = "Shyed", id = 1, salary = 200000.00, experience = 5 });
             employeeList.Add(new Employee() { name = "Shahriar", id = 2, salary = 255000.00, experience = 4 });
@@ -22,7 +22,8 @@ namespace Lab4Task1b1
             employeeList.Add(new Employee() { name = "Roy", id = 13, salary = 280000.00, experience = 16 });
             employeeList.Add(new Employee() { name = "Poly", id = 14, salary = 160000.00, experience = 13 });
 
-            Employee.IsPromotable(employeeList);
+           Employee.IsPromotable(employeeList);
+            Console.ReadLine();
 
         }
 

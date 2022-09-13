@@ -11,19 +11,21 @@ namespace Lab4Task1_2ab
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Loosely Coupled!");
             List<Employee> employeeList = new List<Employee>();
-            employeeList.Add(new Employee() { name = "Merinda", Id = 1, salary = 200000.00, experience = 5 });
-            employeeList.Add(new Employee() { name = "Belal", Id = 2, salary = 255000.00, experience = 4 });
-            employeeList.Add(new Employee() { name = "Roy", Id = 3, salary = 280000.00, experience = 6 });
-            employeeList.Add(new Employee() { name = "Poly", Id = 4, salary = 160000.00, experience = 3 });
+            employeeList.Add(new Employee() { name = "Merinda Shyed", Id = 1, salary = 200000.00, experience = 5 });
+            employeeList.Add(new Employee() { name = "Belal Shahriar", Id = 2, salary = 255000.00, experience = 4 });
+            employeeList.Add(new Employee() { name = "Roy Housaini", Id = 3, salary = 280000.00, experience = 6 });
+            employeeList.Add(new Employee() { name = "Poly 007905536", Id = 4, salary = 160000.00, experience = 3 });
 
             IsPromotable_D p = new IsPromotable_D(Program.IsPromotable);
             Employee.Promotable(employeeList, p);
+            Console.ReadLine();
 
         }
         public static bool IsPromotable(Employee e)
         {
-            if (e.experience >= 5)
+            if (e.experience >= 5) // >4
                 return true;
             else return false;
         }
@@ -41,7 +43,7 @@ namespace Lab4Task1_2ab
             foreach (Employee e in empList)
             {
                 if (promotable(e))
-                    Console.WriteLine(e.name + "is promotable");
+                    Console.WriteLine( " The name of promotable employee is " + e.name);
             }
             //Not hardcoded//framework reusability    
         }
