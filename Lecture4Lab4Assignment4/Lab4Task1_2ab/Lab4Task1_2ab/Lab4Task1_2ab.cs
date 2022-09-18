@@ -7,18 +7,18 @@ using System.Threading.Tasks;
 namespace Lab4Task1_2ab
 {
     delegate bool IsPromotable_D(Employee em);
-    internal class Program
+    internal class Lab4Task1_2ab
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Loosely Coupled!");
+            Console.WriteLine("Lab4Task1_2a_b Loosely Coupled, mce 079 05536!");
             List<Employee> employeeList = new List<Employee>();
             employeeList.Add(new Employee() { name = "Merinda Shyed", Id = 1, salary = 200000.00, experience = 5 });
             employeeList.Add(new Employee() { name = "Belal Shahriar", Id = 2, salary = 255000.00, experience = 4 });
             employeeList.Add(new Employee() { name = "Roy Housaini", Id = 3, salary = 280000.00, experience = 6 });
             employeeList.Add(new Employee() { name = "Poly 007905536", Id = 4, salary = 160000.00, experience = 3 });
 
-            IsPromotable_D p = new IsPromotable_D(Program.IsPromotable);
+            IsPromotable_D p = new IsPromotable_D(Lab4Task1_2ab.IsPromotable);
             Employee.Promotable(employeeList, p);
             Console.ReadLine();
 

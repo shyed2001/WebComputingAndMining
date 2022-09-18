@@ -33,10 +33,13 @@ namespace Lab4Task2B
                 opt = 2;
                 CheckBox1.Checked = false;
             }
-            if (opt == 1) result=MathClass.Add(number1, number2);
-            else if (opt == 2) result= MathClass.Sub(number1, number2);
+            //if (opt == 1) result=MathClass.Add(number1, number2);
+            // else if (opt == 2) result= MathClass.Sub(number1, number2);
 
-            //result = MathClass.getPointer(opt).Invoke(number1, number2); //changing to Mathclass will not need to change this class
+           result = MathClass.getPointer(opt).Invoke(number1, number2); //changing to Mathclass will not need to change this class
+
+            //result = MathClass.getPointer(opt, number1, number2);
+            // Console.WriteLine(MathClass.getPointer(opt, number1, number2));
 
             TextBox4.Text = result.ToString();
 

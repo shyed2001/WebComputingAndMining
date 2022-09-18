@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Lab4Task1b1
 {
-    class Program
+    class Lab4Task1b1
     {
         delegate bool IsPromotable_D(Employee em);
 

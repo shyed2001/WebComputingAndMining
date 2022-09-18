@@ -4,12 +4,12 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title> </title>
+    <title> Shyed Shahriar Housaini MCE 07905536 Lab4Task4</title>
 </head>
 <body>
     <form id="form1" runat="server">
         <div>
-            <h4> Option: 1- Add and 2- Sub:</h4>
+            <h4> Option: 1- Addition and 2- Subtraction:</h4>
              <table class="auto-style1">  
                 <tr>  
                     <td class="auto-style3">  
