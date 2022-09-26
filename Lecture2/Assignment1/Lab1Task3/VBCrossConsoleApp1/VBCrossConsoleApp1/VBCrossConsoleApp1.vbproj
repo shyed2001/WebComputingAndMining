@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>VBCrossConsoleApp1</RootNamespace>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ClassLibraryCrossPlatformAPP">
+      <HintPath>..\..\ClassLibraryCrossPlatformAPP\ClassLibraryCrossPlatformAPP\obj\Debug\netcoreapp3.1\ClassLibraryCrossPlatformAPP.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab2ClassMembersConsoleApp/1.0.0": {
+        "runtime": {
+          "Lab2ClassMembersConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab2ClassMembersConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
