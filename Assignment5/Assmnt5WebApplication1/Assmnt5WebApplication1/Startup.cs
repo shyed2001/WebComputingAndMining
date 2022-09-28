@@ -39,9 +39,10 @@ namespace Assmnt5WebApplication1
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             if (env.IsDevelopment())
+
                 app.Run(async (context) =>
                 {
-                    var mag = Configuration["Message"];
+                    var msg = Configuration["Message"];
                     await context.Response.WriteAsync(msg);
                 });
 

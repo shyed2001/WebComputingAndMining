@@ -49,7 +49,7 @@ namespace Task1WebApplication1
             if (env.IsDevelopment())
                 app.Run(async(context)=>
                 { 
-            var mag = Configuration["Message"];
+            var msg = Configuration["Message"];
             await context.Response.WriteAsync(msg);
         });
 
