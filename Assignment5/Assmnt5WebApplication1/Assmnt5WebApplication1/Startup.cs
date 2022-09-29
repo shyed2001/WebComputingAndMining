@@ -16,27 +16,29 @@ namespace Assmnt5WebApplication1
     {
         public string msg;
 
-        public IConfiguration Configuration { get; set; }
+        public IConfiguration Configuration { get; set; }  // For task 7
 
         //public Startup(IConfiguration configuration)
         //{
         //    Configuration = configuration;
         //}
 
-        public Startup()
+       
+        public Startup()  // For Task 7
         {
             var builder = new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())
                 .AddJsonFile("appsettings.json");
             Configuration = builder.Build();
-        }
+        } // For Task 7
+
         // This method gets called by the runtime. Use this method to add services to the container.
-        public void ConfigureServices(IServiceCollection services)
+        public void ConfigureServices(IServiceCollection services) // For Task 7
         {
             // IServiceCollection.AddAuthorization();
-        }
+        } // For Task 7
 
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env) // For Task 7
         {
             if (env.IsDevelopment())
 
@@ -44,7 +46,7 @@ namespace Assmnt5WebApplication1
                 {
                     var msg = Configuration["Message"];
                     await context.Response.WriteAsync(msg);
-                });
+                }); // For Task 7
 
 
 
@@ -59,10 +61,11 @@ namespace Assmnt5WebApplication1
             options.DefaultFileNames.Clear();
             options.DefaultFileNames.Add("htmlpage.html");
 
-            app.UseDefaultFiles(options);
+            app.UseDefaultFiles(options); /// For task 4 and Task 5
+            
+            //app.UseStaticFiles(); /// For task 4
 
-            //app.UseStaticFiles();
-
+           // Task 6 starts
             app.UseStaticFiles(new StaticFileOptions()
 
             {
@@ -72,6 +75,9 @@ namespace Assmnt5WebApplication1
                 RequestPath = new PathString("/Admin")
             });
 
+           // Task 6 Ends
+
+           // Task Three Starts
             // Add those two lines avobe all code, otherwise they will ot work
             app.Map("/m1", HandleMapOne);
             app.Map("/m2", appMap =>
@@ -86,8 +92,11 @@ namespace Assmnt5WebApplication1
             {
                 await context.Response.WriteAsync("Hello from app.Run()");
             });
+            
+           // Task Three Ends
 
-            //app.Use(async (context, next) =>
+            // Task Two Start
+            // app.Use(async (context, next) =>
 
             //{
             //    await context.Response.WriteAsync("Before 1stapp.Use()\n");
@@ -111,7 +120,10 @@ namespace Assmnt5WebApplication1
             //app.Run(async (context) =>
             //{
             //    await context.Response.WriteAsync("Hello 2nd app.Run()\n");
-            //});
+
+            //  Task Two End });
+
+        
 
             if (env.IsDevelopment())
             {
@@ -129,12 +141,14 @@ namespace Assmnt5WebApplication1
 
             app.UseRouting();
 
-            // app.UseAuthorization();
 
-            //app.UseEndpoints(endpoints =>
-            //{
-            //    endpoints.MapRazorPages();
-            //});
+   // Task one start
+            //// app.UseAuthorization();
+
+            ////app.UseEndpoints(endpoints =>
+            ////{
+            ////    endpoints.MapRazorPages();
+            ////});
 
             //app.Run(async (context) =>
             //{
@@ -142,7 +156,11 @@ namespace Assmnt5WebApplication1
             //    ("Hello World");
             //});
 
+  //  Task One End 
+
         }
+       
+      // Task 3 second part start
         private static void HandleMapOne(IApplicationBuilder app)
         {
             app.Run(async context =>
@@ -150,6 +168,6 @@ namespace Assmnt5WebApplication1
                 await context.Response.WriteAsync("Hello from 1st app.Map()");
             });
         }
-
+      // Task 3 second part ends
     }
 }
