@@ -65,17 +65,7 @@ namespace Assmnt5WebApplication1
             
             //app.UseStaticFiles(); /// For task 4
 
-           // Task 6 starts
-            app.UseStaticFiles(new StaticFileOptions()
 
-            {
-                FileProvider = new PhysicalFileProvider(
-                    Path.Combine(Directory.GetCurrentDirectory(), "admin")),
-                // have to use using System.IO
-                RequestPath = new PathString("/Admin")
-            });
-
-           // Task 6 Ends
 
            // Task Three Starts
             // Add those two lines avobe all code, otherwise they will ot work
@@ -138,12 +128,44 @@ namespace Assmnt5WebApplication1
 
             app.UseHttpsRedirection();
 
+            // Task 6 starts
+            app.UseStaticFiles(new StaticFileOptions()
+
+            {
+                FileProvider = new PhysicalFileProvider(
+                    Path.Combine(Directory.GetCurrentDirectory(), "admin")),
+                // have to use using System.IO
+                RequestPath = new PathString("/Admin")
+            });
+
+            // Task 6 Ends
+
+            /*
+		
+            // Task 6 starts
+            // app.UseStaticFiles();
+            app.UseStaticFiles(new StaticFileOptions()
+
+            {
+             FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), "admin")),
+
+               /// FileProvider = new PhysicalFileProvider( Path.Combine(env.ContentRootPath, "..\\admin")),
+                // have to use using System.IO and
+                // using Microsoft.Extensions.FileProviders;
+               RequestPath = new PathString("/Admin")
+                /// RequestPath = "/admin"
+            });
+
+            */
+
 
             app.UseRouting();
 
+            // app.UseAuthorization();
+
 
    // Task one start
-            //// app.UseAuthorization();
+            
 
             ////app.UseEndpoints(endpoints =>
             ////{

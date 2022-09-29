@@ -116,21 +116,23 @@ namespace As5Task6
             app.UseHttpsRedirection();
 
 
-            app.UseRouting();
-
-            app.UseAuthorization();
-
             // Task 6 starts
-            app.UseStaticFiles();
+            // app.UseStaticFiles();
             app.UseStaticFiles(new StaticFileOptions()
 
             {
-                FileProvider = new PhysicalFileProvider(
-                    Path.Combine(Directory.GetCurrentDirectory(), "..\\admin")),
+             FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), "admin")),
+
+               /// FileProvider = new PhysicalFileProvider( Path.Combine(env.ContentRootPath, "..\\admin")),
                 // have to use using System.IO and
                 // using Microsoft.Extensions.FileProviders;
-                RequestPath = new PathString("/admin")
+               RequestPath = new PathString("/Admin")
+                /// RequestPath = "/admin"
             });
+
+            app.UseRouting();
+
+            app.UseAuthorization();
 
             // Task 6 Ends
 
