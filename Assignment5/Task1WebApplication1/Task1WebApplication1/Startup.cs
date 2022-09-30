@@ -13,14 +13,15 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Runtime.InteropServices;
 using System.Security.Cryptography.Xml;
-using Task1WebApplication1;
+using WebAppAssignment5;
 using System.Runtime.ConstrainedExecution;
 using IHostingEnvironment = Microsoft.AspNetCore.Hosting.IHostingEnvironment;
 //using IHostingEnvironment = Microsoft.Extensions.Hosting.IHostingEnvironment;
 
 
-namespace Task1WebApplication1
-{
+namespace 
+    WebAppAssignment5
+    {
     public class Startup
     {
         private string msg;

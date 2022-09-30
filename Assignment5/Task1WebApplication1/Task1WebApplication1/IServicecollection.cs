@@ -1,4 +1,4 @@
-﻿namespace Task1WebApplication1
+﻿namespace WebAppAssignment5
 {
     public interface IServicecollection
     {
