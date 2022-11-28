@@ -1,0 +1,117 @@
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\Authetication1.deps.json
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\Authetication1.runtimeconfig.json
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\Authetication1.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\Authetication1.dll
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\Authetication1.pdb
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\Authetication1.Views.dll
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\Authetication1.Views.pdb
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.RazorAssemblyInfo.cache
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.RazorAssemblyInfo.cs
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.TagHelpers.input.cache
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.TagHelpers.output.cache
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.RazorCoreGenerate.cache
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.cshtml.g.cs
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.Views.pdb
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.dll
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.pdb
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Account\Registration.cshtml.g.cs
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\appsettings.json
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\Authetication1.deps.json
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\Authetication1.runtimeconfig.json
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\Authetication1.runtimeconfig.dev.json
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\Authetication1.dll
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\Authetication1.pdb
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\Authetication1.Views.dll
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\Authetication1.Views.pdb
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.csprojAssemblyReference.cache
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.AssemblyInfoInputs.cache
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.AssemblyInfo.cs
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.csproj.CoreCompileInputs.cache
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.RazorAssemblyInfo.cache
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.RazorAssemblyInfo.cs
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.TagHelpers.input.cache
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.TagHelpers.output.cache
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.RazorCoreGenerate.cache
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Account\Registration.cshtml.g.cs
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.cshtml.g.cs
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.RazorTargetAssemblyInfo.cache
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.RazorTargetAssemblyInfo.cs
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.Views.pdb
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.dll
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.pdb
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.genruntimeconfig.cache
+D:\FALL 2020@IUBAT\CSC 439 Fall2020 IUBAT\Lecture 19 Authentication\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.csproj.CopyComplete
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\appsettings.json
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\Authetication1.deps.json
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\Authetication1.runtimeconfig.json
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\Authetication1.runtimeconfig.dev.json
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\Authetication1.dll
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\Authetication1.pdb
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\Authetication1.Views.dll
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\bin\Debug\netcoreapp2.1\Authetication1.Views.pdb
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.csproj.AssemblyReference.cache
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.AssemblyInfoInputs.cache
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.AssemblyInfo.cs
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.csproj.CoreCompileInputs.cache
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.RazorAssemblyInfo.cache
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.RazorAssemblyInfo.cs
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.TagHelpers.input.cache
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.TagHelpers.output.cache
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.RazorCoreGenerate.cache
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Account\Registration.cshtml.g.cs
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.cshtml.g.cs
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.RazorTargetAssemblyInfo.cache
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.RazorTargetAssemblyInfo.cs
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.Views.pdb
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.dll
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.pdb
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.genruntimeconfig.cache
+F:\GitHubCloneFiles\WebComputingAndMining\Lecture13AuthoCode\Authetication1\Authetication1\obj\Debug\netcoreapp2.1\Authetication1.csproj.CopyComplete

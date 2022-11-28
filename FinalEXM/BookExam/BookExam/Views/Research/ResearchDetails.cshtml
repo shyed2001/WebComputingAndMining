@@ -1,0 +1,51 @@
+﻿@{
+    ViewData["Title"] = "Research information Page";
+}
+
+@model IEnumerable<BookExam.Models.Research>
+
+<html>
+
+    <head> Research information </head>
+    <body>
+
+        <br> </br>
+
+        <table>
+            @foreach (var rsc in Model)
+            {
+            
+                     
+            <tr>
+                <td> Research ID:
+                    <td > 
+                        <td>@rsc.ResearchID </td> 
+            </tr>
+
+             <tr>
+                <td> Research Title:
+                    <td > 
+                        <td>@rsc.ResearchTitle </td>  
+            </tr>
+
+            <tr>
+                <td> Principle Investigator:
+                    <td > 
+                        <td>@rsc.PrincipleInvestigator </td>
+            </tr>
+
+            <tr>
+                <td>  Fund :
+                    <td > 
+                        <td>@rsc.Fund </td>
+            </tr>  
+      
+
+            <br></br>
+            }
+
+        </table>
+
+    </body>
+</html>
+

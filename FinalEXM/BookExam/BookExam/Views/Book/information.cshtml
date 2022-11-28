@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Book information Page";
+}
+
+@model IEnumerable<BookExam.Models.Book>
+
+<html>
+
+    <head> Book information </head>
+    <body>
+
+        <br> </br>
+
+        <table>
+            @foreach (var bk in Model)
+            {
+            <tr>
+                <td> Book ID:
+                    <td > 
+                        <td>@bk.BookID </td> 
+            </tr>
+
+             <tr>
+                <td> Book Name:
+                    <td > 
+                        <td>@bk.BookName </td>  
+            </tr>
+
+            <tr>
+                <td> Book Address:
+                    <td > 
+                        <td>@bk.BookAddress </td>
+            </tr>
+            <br></br>
+            }
+
+        </table>
+
+    </body>
+</html>
+
